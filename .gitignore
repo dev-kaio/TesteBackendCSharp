@@ -1,0 +1,20 @@
+# Pastas bin e obj de qualquer nível
+bin/
+obj/
+
+# Configurações do usuário
+*.user
+*.suo
+*.pdb
+
+# Logs
+*.log
+
+# Configs do VSCode
+.vscode/
+
+# Arquivos gerados pelo .NET
+*.dll
+*.exe
+*.cache
+*.nuget
